@@ -15,8 +15,8 @@ int menu()
 	{
 		system("cls");
 
-		if (key == 0) key = 3;
-		if (key == 4) key = 1;
+		if (key == 0) key = 4;
+		if (key == 5) key = 1;
 
 		SetColor(15, 0);
 
